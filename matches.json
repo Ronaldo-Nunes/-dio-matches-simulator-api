@@ -57,12 +57,12 @@
     },
     "mandante": {
       "nome": "Paraguai",
-      "forca": 5,
+      "forca": 2,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
     },
     "visitante": {
       "nome": "Uruguai",
-      "forca": 3,
+      "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     }
   }
