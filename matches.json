@@ -48,6 +48,23 @@
       "nome": "Colombia",
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+    },
+    {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Estádio General Pablo Rojas",
+      "imagem": "https://cdn.resfu.com/img_data/estadios/original_new/545.jpg"
+    },
+    "mandante": {
+      "nome": "Paraguai",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+    },
+    "visitante": {
+      "nome": "Uruguai",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     }
+  }
   }
 ]
