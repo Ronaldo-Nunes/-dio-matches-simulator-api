@@ -1,6 +1,7 @@
 [
   {
     "1": {
+      "id": 1,
       "nome": "Grêmio",
       "forca_mandante": 4,
       "forca_visitante": 3,
