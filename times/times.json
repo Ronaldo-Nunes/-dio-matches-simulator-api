@@ -1,6 +1,10 @@
-"1": {
-  "nome": "Grêmio",
-  "forca_mandante": 5,
-  "forca_visitante": 3,
-  "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-}
+[
+  {
+    "1": {
+      "nome": "Grêmio",
+      "forca_mandante": 4,
+      "forca_visitante": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
+  }
+]
